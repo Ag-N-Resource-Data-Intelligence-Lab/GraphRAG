@@ -1,0 +1,228 @@
+DEERE DATA SERVICES & SUBSCRIPTIONS STATEMENT
+Updated November 15, 2022
+
+YOU CONTROL YOUR BUSINESS DATA
+In an increasingly connected world, technology makes it easy for you to share data from your business with others
+— if that’s what you choose to do. When you entrust your data to John Deere and its subsidiaries through our
+services and subscriptions (Data Services), we safeguard that information and honor the permissions you set for
+sharing it with others. We created this statement to be clear about how we manage your data and to provide the
+details you need to make informed decisions about our Data Services.
+To provide the John Deere Data Services, we may collect and process your personal information as described in
+this document and in the applicable privacy statements linked below.
+
+PRIVACY NOTICES
+We may process personal information in providing the John Deere Data Services. When using the John Deere Data
+Services (including creating your User Account, setting up your Organization, or using the JDLink services or tools),
+the following privacy notices regarding the processing of personal data will apply:
+•
+•
+
+John Deere User Account Privacy Statement
+John Deere Organization Privacy Statement
+
+In addition, our enterprise privacy statements are available through the “Privacy and Data” link at the bottom of
+this page.
+
+TYPES OF DATA WE COLLECT
+Depending on the specific services, subscriptions, and tools that you use and how you use them we collect
+different types of data. For example:
+Machine Data. If you use our JDLink services and tools, we will collect data indicating your machine’s health,
+efficiency and functions, including diagnostic codes, machine settings, software and firmware versions,
+attachments and implements, machine hours and lifetime usage, and machine location. You can see some of this
+data in the John Deere Operations Center, JDLink Dashboard, and our mobile apps.
+Operational Data. If you use the John Deere Operations Center and related applications, we may collect
+information about the way you and others use your machines, including settings, throughput, and sensor readings,
+and we may also collect information about your work and operations, including field task details, area worked,
+route travelled, crop harvested and yield data, inputs applied, and historical information and reports. You can see
+and manage this data in the John Deere Operations Center and linked applications.
+Administrative Data. Whenever you or your staff use our services and applications, we collect information that
+helps us administer your account and activities. This data includes data sharing permissions, users linked to your
+account, machines, devices, and licenses linked to your account, number of acres and size and nature of fields, and
+general information about the way you use your account and our applications. You can see and manage some of
+this information in the John Deere Operations Center and linked applications.
+We do not use user-generated content. Some of our systems enable you to store and share information you or
+others create. This user-generated content includes variable rate prescriptions, notes, recordings, photographs,
+Page 1 of 7
+Public
+
+PDFs and other file types. We store, share, and use this content only to support you and to comply with court
+orders and legal or regulatory requirements.
+Please refer to the applicable privacy statements linked above for further information about how we process your
+personal information when you use that service, or by contacting us. [note 5]
+
+Page 2 of 7
+Public
+
+YOU CONTROL WHO SEES YOUR DATA
+Here are your options for controlling your account information when you use John Deere’s Data Services:
+SHARING
+You may share and disclose data in the John Deere Operations Center and other connected portals and apps. By
+setting permissions for your account, you control other parties’ access and visibility into your data. You also control
+which John Deere dealers have access to data in your account. [note 1] Please note that when you share your
+information with someone other than John Deere, the recipient may decide to copy, use, modify, or distribute it to
+others, and John Deere has no control over, or responsibility for, any such activities.
+MANAGING
+You may view, analyze, and manage most data in your account through the John Deere Operations Center,
+Dashboard, and MyJohnDeere portals.
+EXPORTING
+You may download and export files from the John Deere Operations Center and Dashboard.
+DELETING, UPDATING, AND AMENDING
+You may request that we delete, update, or amend data in your account. We will make every reasonable effort to
+honor your request promptly and in accordance with applicable data protection laws or inform you if we require
+further information to fulfill your request. Please note that deleting data may limit our ability to support you and,
+in some cases, may result in you no longer being able to use the applicable Data Services and – subject to any
+applicable privacy laws – we may retain certain basic information where necessary for our record keeping
+purposes. Please review the terms and privacy statements of applicable Data Services for further information.
+[note 2]
+
+HOW WE USE YOUR DATA
+
+TO SERVE YOU
+•
+
+We use your data, including your personal information, to provide you with contracted services and
+offerings and to administer your account. You can learn more about how we use your personal
+information, including the legal basis for using any personal information, in the John Deere privacy
+statements for the applicable Data Service (linked above) or by contacting us. [note 5]
+
+•
+
+We may share your data with John Deere affiliates and suppliers to provide you with contracted services
+and offerings and to administer your account, subject to appropriate contractual restrictions and
+security measures. These affiliates and suppliers have committed to protect your data consistent with
+this statement and all applicable privacy and other laws. [note 4]
+
+•
+
+We may share your data with authorized John Deere dealers so they can support you, unless you
+explicitly restrict access to specific dealers. [note 1]
+
+TO LEARN FROM YOU
+•
+
+We may use your data to evaluate your use of our Data Services to assist with our development of new
+products and services, and to make improvements to our existing products and services depending on
+Page 3 of 7
+Public
+
+the privacy regulations applicable in the country where you are located. For example, analyzing your
+data may spotlight trends that inform our product support and development, warranty services, and
+diagnostic or prognostic activities. You can learn more about when and how we use your personal
+information, including the legal basis for using any personal information, in the John Deere privacy
+statements for the applicable Data Service (linked above) or by contacting us. [note 5]
+•
+
+We may combine your anonymized data with data from others and include your data in anonymized
+data sets. We may also share in aggregate, statistical form, non-personal information with our partners,
+affiliates or advisors.
+
+•
+
+We may use your data to prepare routine reports to industry associations, such as reports on market
+share or network activity and security.
+
+TO MARKET TO YOU
+•
+
+We may use your data to market products and services to you, targeting offerings to match your activity,
+interests, and location in accordance with applicable data privacy laws. We will communicate with you
+only according to the preferences you set for your account or where necessary according to your explicit
+consent. [note 3]
+
+•
+
+In accordance with the preferences you set for your account or your consent given, we may share your
+data with John Deere dealers so they can market products and services to you, targeting offerings to
+match your activity if you provide any applicable consent. [notes 1, 3]
+
+TO COMPLY WITH THE LAW
+•
+
+We share your data as required by applicable laws, including data privacy and consumer protection laws.
+Our privacy statements are linked above.
+
+•
+
+We may review and disclose your data to comply with court orders and legal or regulatory
+requirements; to prevent injury, death, losses, fraud or abuse; to protect John Deere’s rights or to
+defend John Deere in legal proceedings; and to comply with requests from you. We may transfer your
+data as part of a transfer or sale of business assets.
+
+HOW WE PROTECT AND MAINTAIN YOUR DATA
+SAFEGUARDING
+We have implemented and maintain appropriate technical and organisational security measures, policies and
+procedures designed to reduce the risk of accidental destruction or loss, or the unauthorised disclosure or access
+to such information appropriate to the nature of the information concerned. Measures we take include placing
+confidentiality requirements on our staff members and service providers; and destroying or permanently
+anonymizing personal information if it is no longer needed for the purposes for which it was collected. As the
+security of information depends in part on the security of the computer you use to use our services and the
+security you use to protect user IDs and passwords please take appropriate measures to protect this information.
+STORING AND TRANSFER
+We store most information about you in computer systems and databases operated by either us or our external
+service providers.
+John Deere operates on a global basis. Accordingly, your information may be transferred and stored in countries
+around the world that are subject to different standards of data protection, including the EU, the United States of
+America, Brazil, and other countries where John Deere has offices or authorized dealers. When we transfer your
+Page 4 of 7
+Public
+
+personal information to other countries, we will take appropriate steps to ensure that transfers of personal
+information are in accordance with applicable law and carefully managed to protect your privacy rights and
+interests. You may contact us for more information about the safeguards we have put in place to ensure the
+adequate protection of your information when it is transferred. [note 5]
+RETENTION
+We will store your personal information for as long as is reasonably necessary for the purposes for which it was
+collected. In some circumstances we may store your personal information for longer periods of time, for instance
+where we are required to do so in accordance with legal, regulatory, tax, accounting requirements. In specific
+circumstances we may store your personal information for longer periods of time so that we have an accurate
+record of your dealings with us in the event of any complaints or challenges, or if we reasonably believe there is a
+prospect of litigation relating to your personal information or dealings.
+After expiration of any applicable Data Service contract, we may delete data at our discretion and subject to
+requirements in any applicable privacy, consumer protection, or other laws.
+RIGHTS
+Subject to certain exemptions and depending on your location, and in some cases dependent upon the processing
+activity John Deere is undertaking, you have certain rights in relation to your personal information, including the
+right to request access to and rectification or erasure of your personal information or restriction of processing
+concerning you, or to object to processing, as well as the right to data portability. You may also have the right to
+lodge a complaint with a competent supervisory authority.
+You can exercise your rights by contacting us. Subject to legal and other permissible considerations, we will make
+every reasonable effort to honour your request promptly or inform you if we require further information to fulfil
+your request. [note 5]
+You may contact us using the contact information provided in the applicable privacy notice, linked above.
+
+NOTES
+1
+
+RESTRICTING DEALER ACCESS TO MACHINES
+ServiceADVISOR Remote is a tool that enables dealers to support your machines. To remove dealer access
+to machines in your account you must remove ServiceADVISOR Remote access for each machine from the
+Terminal Settings tab in the Operations Center or JDLink Dashboard.
+
+2
+
+DELETING, UPDATING, AMENDING DATA
+You may request deletion, updates, or amendment of data email by completing our online form, or via the
+contact information shown under note 7 below. To understand how deletion may impact or terminate any
+John Deere Data Services see www.JohnDeere.com/agreements. To understand your rights with respect to
+any personal information, see our privacy statements linked above.
+
+3
+
+MARKETING PREFERENCES
+Email PrivacyManager@JohnDeere.com for information about your marketing preferences or to change
+them.
+
+4
+
+ACCESS TO AFFILIATES
+All references to “We” in this statement include Deere & Company and its subsidiaries. You may have
+granted John Deere Financial certain rights to access machine data about your equipment in your financing
+or lease documents, including the location, maintenance, operation and condition of your equipment. If
+permitted by your finance or lease agreement, John Deere Financial may continue to access machine data
+about your equipment during the term of the financing or lease agreement notwithstanding any election
+Page 5 of 7
+Public
+
+you may make. This could include reinstating machine data access if turned-off or otherwise disabled.
+Please review your finance or lease documents for more information.
+5
