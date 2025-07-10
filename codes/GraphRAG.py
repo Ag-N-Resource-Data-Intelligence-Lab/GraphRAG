@@ -16,7 +16,7 @@ from langchain.chains import RetrievalQA, GraphCypherQAChain
 def run_rag(
     url: str = "neo4j+s://44e850f8.databases.neo4j.io",
     username: str = "neo4j",
-    password: str = "f1nRQlWKd6LriVlCL4UZt_k_MqJtQdtZE30z_Pq5AYA",
+    password: str = "97yrwTcHgjKjFGmfdx1aoBJVLMl5YMS9g6FHE8pWIas",
     openai_api_key: str = None,
     model_name: str = "gpt-4-turbo",
     prompt: str = None
